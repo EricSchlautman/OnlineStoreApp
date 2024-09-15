@@ -6,6 +6,7 @@ class Email {
 
     getEmail() {
         return this.email;
+        
     }
 
     addEmail(newEmail) {
